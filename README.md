@@ -26,3 +26,10 @@ Statistical Assessment: Analyze the gathered data to discern trends and correlat
 ## Visualisation
 
 ![Relative Image](graph.png "Optional Title")
+
+## Resource Monitor
+
+![Relative Image](rm0.png "Optional Title")
+![Relative Image](rm1.png "Optional Title")
+![Relative Image](rm2.png "Optional Title")
+
